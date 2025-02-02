@@ -1,2 +1,2 @@
 # NBA Legends
-# [Live Link](nba-legends-iota.vercel.app)
+# [Live Link](https://nba-legends-iota.vercel.app)
